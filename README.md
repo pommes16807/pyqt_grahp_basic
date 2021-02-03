@@ -1,2 +1,2 @@
 # pyqt_grahp_basic
-minimal graph plot window
+A minimal graph plot window. The graphic functin depends on matplolib.
